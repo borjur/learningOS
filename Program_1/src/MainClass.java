@@ -1,9 +1,3 @@
-/*
- * Boris Jurosevic
- * CS 3100
- * Program 1
- * 
- */
 
 
 
