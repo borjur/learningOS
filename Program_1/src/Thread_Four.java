@@ -1,9 +1,3 @@
-/*
- * Boris Jurosevic
- * CS 3100
- * Program 1
- * 
- */
 
 
 public class Thread_Four extends Thread
