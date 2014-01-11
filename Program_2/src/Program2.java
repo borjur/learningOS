@@ -1,8 +1,4 @@
-/* 
- * Boris Jurosevic
- * CS3100
- * Program 2
- */
+
 public class Program2 extends Object {  
  
 	//monkey variable
